@@ -1,11 +1,9 @@
 #!/usr/bin/env bash
 #
-# Script name: dtosinstall
+# Script name: ZOS.SH
 # Description: A lightweight kickass Arch Linux installer.
 # Dependencies: 
-# GitLab: https://www.gitlab.com/dtos/dtosinstall/
-# License: https://www.gitlab.com/dtos/dtosinstall/
-# Contributors: Derek Taylor
+# Github: https://www.github.com/zorioj/ZOS
 
 # Set with the flags "-e", "-u","-o pipefail" cause the script to fail
 # if certain things happen, which is a good thing.  Otherwise, we can
