@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+SPEED="$(systemd-analyze)" 
+
+notify-send BootSpeed "${SPEED}"
